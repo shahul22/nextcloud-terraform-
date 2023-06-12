@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "aws-infrastructure-with-alb",
+			"path": "../aws-infrastructure-with-alb"
+		},
+		{
+			"name": "Ali-Nxt-Terraform",
+			"path": "../Ali-Nxt-Terraform"
+		},
+		{
+			"name": "terraform-demo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
